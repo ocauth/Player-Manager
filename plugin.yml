@@ -1,0 +1,8 @@
+name: PlayerManager
+version: 0.0.1
+main: me.pmr.rdl.Main
+
+
+commands:
+  ap: 
+    description: Admin Panel
